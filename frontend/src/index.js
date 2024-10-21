@@ -11,7 +11,7 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 // Optional: Log performance metrics to the console
 reportWebVitals(console.log);
 
